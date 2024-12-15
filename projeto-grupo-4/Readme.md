@@ -93,4 +93,12 @@ Também é possível trocar o id do cliente usando o comando /change_id novo_nom
 Contribuições são bem-vindas! Para contribuir.
 
 Autores:
+Eduardo Morelli Fares
+Clarice Viegas Lira
+Andre Victor Kovalski
+Juan Thomas de Lima Bueno
+Gabriel Silva Madeira
+Caio Martinez Roberto da Silva
+Guilherme Rebecchi dos Santos
+Felipe Mendes Bortolozo
 
